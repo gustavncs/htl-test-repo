@@ -7,6 +7,6 @@ Test repository zum lernen von Git
 
 - Repo klonen -Erledigt
 
-- Dateien auf lokalem Repo ändern
+- Dateien auf lokalem Repo ändern -Erledigt
 
-- Änderungen auf den Server pushen
+- Änderungen auf den Server pushen -Erledigt
