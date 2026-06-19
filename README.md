@@ -2,9 +2,10 @@
 Test repository zum lernen von Git
 
 ##Erste Schritte
--Remote Repo anlegen
 
--Repo klonen
+-Remote Repo anlegen -Erledigt
+
+-Repo klonen -Erledigt
 
 -Dateien auf lokalem Repo ändern
 
