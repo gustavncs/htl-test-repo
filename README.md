@@ -10,3 +10,7 @@ Test repository zum lernen von Git
 - Dateien auf lokalem Repo ändern -Erledigt
 
 - Änderungen auf den Server pushen -Erledigt
+
+## Die zweiteren Schritte
+
+DIe wirkliche Vorlage klonen warum auch immer
